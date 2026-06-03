@@ -10,5 +10,8 @@ So we need something that:
 The design considered the constraints of common breadboard and I came up with this:
 <img width="1085" height="609" alt="Breadboard_PowerSupply" src="https://github.com/user-attachments/assets/5ab4492d-0346-4af1-a27e-5102286ec12c" />
 
+<img width="465" height="519" alt="layout" src="https://github.com/user-attachments/assets/07e0757c-a446-40f2-9f1b-bf13b68084ac" />
+
+
 <img width="625" height="353" alt="constraint" src="https://github.com/user-attachments/assets/7e69fdda-81e6-4488-aece-426e602f230f" />
 

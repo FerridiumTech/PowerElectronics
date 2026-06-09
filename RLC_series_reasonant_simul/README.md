@@ -20,3 +20,6 @@ making a sharp hilltop.
 
 For the math, I advice checking online resources and most preferably the cited books.
 <img width="717" height="525" alt="snip" src="https://github.com/user-attachments/assets/8bf1631a-ae8b-4fd7-a51f-7b108c628601" />
+
+### Pro Tip:
+Resonance is used in soft switching.

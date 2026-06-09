@@ -21,7 +21,8 @@ transformer is about the practical upper limit of commonly available models. Thi
 voltage of the regulators, and also by the bulk filter capacitors that are rated at 35 VDC.
 
 <img width="751" height="431" alt="layout0" src="https://github.com/user-attachments/assets/3a069cda-c2ab-454a-af86-d674a019192d" />
-<img width="1085" height="609" alt="bipolar_linear_supply" src="https://github.com/user-attachments/assets/5dc0a101-d62d-4123-a73a-ae17ef583ee2" />
+<img width="1085" height="609" alt="bipolar_linear_supply" src="https://github.com/user-attachments/assets/511272ee-3b6c-4e93-9eb3-04d02a246762" />
+
 
 
 ### NB
